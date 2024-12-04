@@ -1,4 +1,3 @@
-<%@ page import="com.example.demo1.Product" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.List" %>
 <%@ page import="com.example.demo1.Student" %>
